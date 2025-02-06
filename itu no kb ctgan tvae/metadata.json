@@ -1,0 +1,82 @@
+{
+    "tables": {
+        "ids": {
+            "columns": {
+                "Flow_Duration": {
+                    "sdtype": "numerical"
+                },
+                "Total_Length_of_Bwd_Packets": {
+                    "sdtype": "numerical"
+                },
+                "Bwd_Packet_Length_Max": {
+                    "sdtype": "numerical"
+                },
+                "Bwd_Packet_Length_Mean": {
+                    "sdtype": "numerical"
+                },
+                "Flow_Bytes/s": {
+                    "sdtype": "numerical"
+                },
+                "Flow_Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Flow_IAT_Mean": {
+                    "sdtype": "numerical"
+                },
+                "Flow_IAT_Std": {
+                    "sdtype": "numerical"
+                },
+                "Flow_IAT_Max": {
+                    "sdtype": "numerical"
+                },
+                "Flow_IAT_Min": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_IAT_Total": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_IAT_Mean": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_IAT_Std": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_IAT_Max": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_IAT_Min": {
+                    "sdtype": "numerical"
+                },
+                "Fwd_Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Bwd_Packets/s": {
+                    "sdtype": "numerical"
+                },
+                "Max_Packet_Length": {
+                    "sdtype": "numerical"
+                },
+                "Packet_Length_Mean": {
+                    "sdtype": "numerical"
+                },
+                "Average_Packet_Size": {
+                    "sdtype": "numerical"
+                },
+                "Avg_Bwd_Segment_Size": {
+                    "sdtype": "numerical"
+                },
+                "Subflow_Bwd_Bytes": {
+                    "sdtype": "numerical"
+                },
+                "Init_Win_bytes_forward": {
+                    "sdtype": "numerical"
+                },
+                "min_seg_size_forward": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
